@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/ecen5653/lab3/q6/ssd/ssd.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.0.0-32-generic/scripts/module-common.lds --build-id  -o /home/ubuntu/ecen5653/lab3/q6/ssd/ssd.ko /home/ubuntu/ecen5653/lab3/q6/ssd/ssd.o /home/ubuntu/ecen5653/lab3/q6/ssd/ssd.mod.o
